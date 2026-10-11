@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+networkx
+beautifulsoup4
+ollama
+dnspython
